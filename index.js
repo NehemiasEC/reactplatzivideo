@@ -1,9 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import data from "./src/api.json"
 
-import Media from "./src/playlist/components/media"
+import PlayList from "./src/playlist/components/playlist"
 
 const app = document.getElementById("app");
 
-ReactDOM.render(<Media title="Hola mundo" author="NehemiasEC" image="./images/328.jpg"/>,app);
+ReactDOM.render(<PlayList data={data}/>,app);
 

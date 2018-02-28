@@ -1,0 +1,111 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M192 128l640 384-640 384z"
+        ],
+        "tags": [
+          "play",
+          "player"
+        ],
+        "defaultCode": 59932,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "play3, player8",
+        "name": "play3",
+        "order": 2,
+        "id": 285,
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 284
+    },
+    {
+      "icon": {
+        "paths": [
+          "M128 128h320v768h-320zM576 128h320v768h-320z"
+        ],
+        "tags": [
+          "pause",
+          "player"
+        ],
+        "defaultCode": 59933,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "pause2, player9",
+        "name": "pause2",
+        "order": 3,
+        "id": 286,
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 285
+    },
+    {
+      "icon": {
+        "paths": [
+          "M128 128h768v768h-768z"
+        ],
+        "tags": [
+          "stop",
+          "player",
+          "square"
+        ],
+        "defaultCode": 59934,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "stop2, player10",
+        "name": "stop2",
+        "order": 4,
+        "id": 287,
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 286
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

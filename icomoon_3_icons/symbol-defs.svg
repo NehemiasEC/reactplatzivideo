@@ -1,0 +1,16 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-play3" viewBox="0 0 32 32">
+<title>play3</title>
+<path d="M6 4l20 12-20 12z"></path>
+</symbol>
+<symbol id="icon-pause2" viewBox="0 0 32 32">
+<title>pause2</title>
+<path d="M4 4h10v24h-10zM18 4h10v24h-10z"></path>
+</symbol>
+<symbol id="icon-stop2" viewBox="0 0 32 32">
+<title>stop2</title>
+<path d="M4 4h24v24h-24z"></path>
+</symbol>
+</defs>
+</svg>

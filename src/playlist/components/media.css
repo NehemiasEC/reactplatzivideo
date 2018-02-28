@@ -1,5 +1,5 @@
 .Media{
-    background-color: #d7f42d;
+    background-color: #c2f4ea;
     cursor:pointer;
     margin-right: 15px;
     display: inline-block;
@@ -8,5 +8,5 @@
 }
 
 .Media-title{
-    color: #53f44f;
+    color:#292924;
 }
